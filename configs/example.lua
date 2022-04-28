@@ -8,3 +8,6 @@ Config.DoorList['CardealerGarageDoorExample'] = {
     pickable = false,
     distance = 15.0
 }
+
+-- COMMUNITY MRPD
+

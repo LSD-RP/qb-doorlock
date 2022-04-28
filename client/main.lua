@@ -1,6 +1,6 @@
 local QBCore = exports['qb-core']:GetCoreObject()
 local PlayerData = QBCore.Functions.GetPlayerData()
-local isLoggedIn = LocalPlayer.state['isLoggedIn']
+local isLoggedIn = true
 local Config = Config
 local canContinue = true
 local playerPed = PlayerPedId()
